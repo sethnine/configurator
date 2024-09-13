@@ -5,6 +5,10 @@ Please download and install the latest(very important) PuTTy before running the 
 
 ---
 
+Download the **[OpenIPC-Configurator.zip](https://github.com/OpenIPC/configurator/releases/latest)** from the releases tab click **[HERE](https://github.com/OpenIPC/configurator/releases/latest)** to go to the releases page.
+
+Unzip OpenIPC-Configurator.zip.
+
 Run the "OpenIPC Configurator.exe" file.
 
 Enter the IP of the camera/NVR/Radxa Zero 3w.
